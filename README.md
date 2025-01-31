@@ -220,5 +220,5 @@ This project is licensed under the **MIT License**.
 
 ## 10. Contact
 
-For any queries, contact **[Your Name]** at [**your-email@example.com**](mailto\:your-email@example.com) or visit **[Your Website]**.
+For any queries, contact **Akshay Kumar Hiran** at [**akshaykumarhiran2@gmail.com**](mailto\:akshaykumarhiran2@gmail.com).
 
